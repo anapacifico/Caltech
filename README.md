@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/web/img/logo.png" alt="Logo CalTech" style="width: 400px; margin-top: 10px; margin-bottom: 10px;">
+    <img src="/web/img/branco.png" alt="Logo CalTech" style="width: 400px; margin-top: 10px; margin-bottom: 10px;">
     <h1 align="center">CalTech</h1>
     <br>
 </p>
